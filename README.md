@@ -1,7 +1,9 @@
 ### Oiii, Eu sou a Eduarda Almeida �
 
--📕📕Estou cursando DS na etec ...
--🎓 Estou focada em aprender...
+-📕📕Estou cursando DS na etec 
+
+-🎓 Estou focada em aprender
+
 -🔮 Pronomes: ela/dela
 ##
 ##
