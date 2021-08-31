@@ -2,7 +2,7 @@
 
 - 🌱 Estou cursando DS na etec ...
 - 👯 Estou focada em aprender...
-- 😄 Pronouns: ela/dela
+- 😄 Pronomes: ela/dela
 
 <div>
   <a href="https://github.com/Eduardaalmeida">
@@ -20,7 +20,7 @@
   <img align="right" alt="Duda-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
 </div>
   
-  ##
+  ########
  
 <div>
    <a href="https://instagram.com/duh_almeida17" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
