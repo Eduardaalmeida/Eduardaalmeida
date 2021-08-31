@@ -1,4 +1,4 @@
-### Hi there 👋
+### OIIIIII, Eu sou a Eduarda �
 
 <!--
 **Eduardaalmeida/Eduardaalmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
